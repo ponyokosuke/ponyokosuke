@@ -1,16 +1,17 @@
-## Hi there 👋
+I'm ponyokosuke, a university student working as a developer intern.
+I am passionate about web development, app development, machine learning, and finance.
 
-<!--
-**ponyokosuke/ponyokosuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My experience includes:
+* **Web & App Development** (Swift, Java Spring Boot, Python FastAPI)
+* **Data Analysis** (Python, Machine Learning)
+* **System Integration for Financial Companies**
 
-Here are some ideas to get you started:
+You can find my portfolio and projects below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### How I Use GitHub
+
+Beyond my software projects, I also use GitHub to manage academic papers (e.g., in mathematics) alongside their related code.
+
+The key benefit is keeping simulation code, datasets, Jupyter Notebooks, and the paper itself (PDF or LaTeX source) all in one place, perfectly version-controlled.
